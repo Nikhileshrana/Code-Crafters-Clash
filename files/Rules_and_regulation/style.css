@@ -86,11 +86,11 @@ section
 #rules_desc>ul>b
 {
     font-size: 3vh;
-    color: rgb(183, 126, 248);
+    color: rgb(214, 192, 239);
 }
 
 #rules_desc>ul>li
 {
     width: 100%;
-    color: bisque;
+    color: rgb(239, 231, 221);
 }
