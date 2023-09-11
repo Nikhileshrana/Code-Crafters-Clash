@@ -23,6 +23,18 @@ section
     justify-content: space-around;
 }
 
+
+@media only screen and (max-width:800px)
+{
+
+#section_area
+{
+    flex-direction: column;
+}
+
+}
+
+
 #section_area>div>img
 {
     width: 60vw;
