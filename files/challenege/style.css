@@ -1,0 +1,25 @@
+#home
+{
+    color: azure;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    text-align: center;
+    height: 400px;
+    justify-content: space-around;
+}
+
+#home>div
+{
+    font-size: 5vw;
+    align-items: center;
+    align-self: center;
+
+}
+
+#home_lower
+{
+    background-color: rgb(18, 90, 90);
+    width: 60%;
+    border-radius: 22px;
+}

@@ -284,18 +284,6 @@ footer{
   height: 4rem;;
 }
 
-#temph4{
-  margin-left:10%;
-  margin-right: 10%;
-  line-height: 35px;
-}
-
-#temph4>span{
-  display: block;
-  text-align: center;
-  font-size: 1.4rem;
-}
-
 
 
 
@@ -375,10 +363,6 @@ footer{
   #contentabvcard>p{
     text-align: justify;
   }
-  #temph4>span{
-    text-align: justify;
-
-  }
 }
 @media (max-width:1064px){
   .right{
@@ -416,11 +400,5 @@ footer{
     width:17rem;
     height:19rem;
     margin-top: 30px;
-  }
-}
-@media (min-width:830px)
-{
-  .maincontentbel>p{
-    font-size: 1.7rem;
   }
 }
