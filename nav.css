@@ -8,7 +8,8 @@
     font-family: 'Quicksand', sans-serif;
 }
 
-body,ul{
+body,ul
+  {
     margin:0;
     padding:0;
   }
@@ -29,6 +30,7 @@ body,ul{
   #logo
   {
     width: 220px;
+    padding: 2%;
   }
   #header
   {
